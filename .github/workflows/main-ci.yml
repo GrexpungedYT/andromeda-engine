@@ -65,7 +65,7 @@ jobs:
         with:
           name: Windows Build
           path: export/release/windows/bin
-name: macos Build CI
+name: MacOS Build CI
 
 # Controls when the action will run. 
 on:
